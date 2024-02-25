@@ -2,7 +2,7 @@
 
 import flatpickr from "flatpickr";
 import iziToast from "izitoast";
-import errorIcon from '../img/err-icon.png';
+import errorIcon from '../img/error-icon.png';
 
 const startTimerButton = document.querySelector(".timer-section button");
 const timerDateInput = document.getElementById("datetime-picker");
